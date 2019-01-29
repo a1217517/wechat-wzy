@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98eb67db-eab4-4d64-98cf-fa647b7c298a" name="Default" comment="" />
+    <list default="true" id="98eb67db-eab4-4d64-98cf-fa647b7c298a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wzy/wechat/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wzy/wechat/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wzy/wechat/domain/UserStory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wzy/wechat/domain/UserStory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wzy/wechat/utils/TextMessageUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wzy/wechat/utils/TextMessageUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wzy/wechat/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wzy/wechat/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wzy/wechat/domain/UserStory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wzy/wechat/domain/UserStory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wzy/wechat/utils/TextMessageUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wzy/wechat/utils/TextMessageUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wzy/wechat/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8150">
-              <caret line="344" column="62" selection-start-line="342" selection-start-column="21" selection-end-line="344" selection-end-column="62" />
+            <state relative-caret-position="-12">
+              <caret line="289" column="64" selection-start-line="289" selection-start-column="64" selection-end-line="289" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TextMessageUtil.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TextMessageUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wzy/wechat/utils/TextMessageUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="99" column="61" selection-start-line="99" selection-start-column="61" selection-end-line="99" selection-end-column="61" />
+            <state relative-caret-position="225">
+              <caret line="98" column="61" selection-start-line="98" selection-start-column="61" selection-end-line="98" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,10 +64,11 @@
       <file leaf-file-name="Activity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wzy/wechat/domain/Activity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+            <state relative-caret-position="239">
+              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
                 <element signature="e#717#718#0" expanded="true" />
                 <element signature="e#751#752#0" expanded="true" />
                 <element signature="e#779#780#0" expanded="true" />
@@ -109,7 +120,7 @@
       <file leaf-file-name="ActivityService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wzy/wechat/service/ActivityService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
+            <state relative-caret-position="250">
               <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -125,6 +136,20 @@
               <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserStory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wzy/wechat/domain/UserStory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
+              <folding>
+                <element signature="e#1641#1642#0" expanded="true" />
+                <element signature="e#1689#1690#0" expanded="true" />
+                <element signature="e#1729#1730#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,7 +174,20 @@
       <find>漂流瓶</find>
       <find>对方</find>
       <find>瓶子已经被</find>
+      <find>您捞到</find>
+      <find>瓶子主人</find>
+      <find>您捞到了</find>
+      <find>回复 2</find>
+      <find>回复 2 继续捞一个瓶子</find>
+      <find>请输入</find>
+      <find>微信id</find>
+      <find>成功</find>
+      <find>您的微信号</find>
+      <find>额外</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -166,13 +204,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wzy/wechat/repository/ChangeRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wzy/wechat/domain/Change.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wzy/wechat/utils/BaseMessageUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wzy/wechat/domain/UserStory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wzy/wechat/repository/UserStoryRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wzy/wechat/service/ActivityService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wzy/wechat/domain/Activity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wzy/wechat/repository/ActivityRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wzy/wechat/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wzy/wechat/domain/UserStory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wzy/wechat/utils/TextMessageUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wzy/wechat/controller/LoginController.java" />
       </list>
     </option>
   </component>
@@ -214,11 +252,14 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,57 +300,12 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wechat" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wzy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wzy-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wechat" type="462c0819:PsiDirectoryNode" />
               <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wzy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wzy-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wechat" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wzy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wzy-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wechat" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wzy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wzy-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wechat" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wzy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wzy-weixin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -430,11 +426,12 @@
       <workItem from="1548639137663" duration="18954000" />
       <workItem from="1548725510454" duration="23208000" />
       <workItem from="1548762131633" duration="505000" />
+      <workItem from="1548764709172" duration="6451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73041000" />
+    <option name="totallyTimeSpent" value="79492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -443,26 +440,26 @@
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="bottom" id="Java Enterprise" order="1" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info active="true" anchor="right" id="Maven Projects" order="2" visible="true" weight="0.11595174" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="2" visible="true" weight="0.0844504" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" weight="0.25904486" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.13126844" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.20088626" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.048744462" />
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" x="0" y="0" width="1536" height="814" id="Project" order="3" sideWeight="0.6878453" visible="true" weight="0.19504021" />
+      <window_info content_ui="combo" x="0" y="0" width="1536" height="814" id="Project" order="3" sideWeight="0.6878453" visible="true" weight="0.18766756" />
       <window_info anchor="right" id="Bean Validation" order="6" />
       <window_info id="Web" order="0" side_tool="true" />
       <window_info anchor="right" id="Database" order="0" weight="0.3297587" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.15331492" />
       <window_info id="Structure" order="4" sideWeight="0.3121547" side_tool="true" weight="0.2513021" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="right" id="Commander" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="5" weight="0.2861357" />
-      <window_info anchor="bottom" id="Find" order="7" weight="0.15331492" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="6" />
     </layout>
@@ -480,6 +477,7 @@
           <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
             <element signature="e#717#718#0" expanded="true" />
             <element signature="e#751#752#0" expanded="true" />
             <element signature="e#779#780#0" expanded="true" />
@@ -591,6 +589,7 @@
           <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
             <element signature="e#717#718#0" expanded="true" />
             <element signature="e#751#752#0" expanded="true" />
             <element signature="e#779#780#0" expanded="true" />
@@ -902,13 +901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wzy/wechat/domain/UserStory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wzy/wechat/repository/UserStoryRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -918,10 +910,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wzy/wechat/domain/Activity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        <state relative-caret-position="239">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
             <element signature="e#717#718#0" expanded="true" />
             <element signature="e#751#752#0" expanded="true" />
             <element signature="e#779#780#0" expanded="true" />
@@ -971,7 +964,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wzy/wechat/service/ActivityService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
+        <state relative-caret-position="250">
           <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -989,20 +982,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wzy/wechat/controller/LoginController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wzy/wechat/domain/UserStory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8150">
-          <caret line="344" column="62" selection-start-line="342" selection-start-column="21" selection-end-line="344" selection-end-column="62" />
+        <state relative-caret-position="389">
+          <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1641#1642#0" expanded="true" />
+            <element signature="e#1689#1690#0" expanded="true" />
+            <element signature="e#1729#1730#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wzy/wechat/utils/TextMessageUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="99" column="61" selection-start-line="99" selection-start-column="61" selection-end-line="99" selection-end-column="61" />
+        <state relative-caret-position="225">
+          <caret line="98" column="61" selection-start-line="98" selection-start-column="61" selection-end-line="98" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wzy/wechat/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="289" column="64" selection-start-line="289" selection-start-column="64" selection-end-line="289" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

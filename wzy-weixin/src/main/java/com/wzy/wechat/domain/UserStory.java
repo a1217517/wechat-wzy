@@ -22,7 +22,7 @@ public class UserStory {
     private int state=0;
     private String wechatId;
     private int wechatIdGetcount=3;
-
+    private String nickName;
     public Long getId() {
         return id;
     }
@@ -77,5 +77,13 @@ public class UserStory {
 
     public void setWechatIdGetcount(int wechatIdGetcount) {
         this.wechatIdGetcount = wechatIdGetcount;
+    }
+
+    public String getNickName() {
+        return nickName;
+    }
+
+    public void setNickName(String nickName) {
+        this.nickName = nickName;
     }
 }
