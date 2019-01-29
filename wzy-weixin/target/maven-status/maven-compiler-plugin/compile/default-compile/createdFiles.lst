@@ -1,0 +1,15 @@
+com\wzy\wechat\repository\UserStoryRepository.class
+com\wzy\wechat\domain\MessageText.class
+com\wzy\wechat\repository\ChangeRepository.class
+com\wzy\wechat\domain\UserStory.class
+com\wzy\wechat\controller\LoginController.class
+com\wzy\wechat\service\ActivityService.class
+com\wzy\wechat\utils\MessageUtil.class
+com\wzy\wechat\wechatApplication.class
+com\wzy\wechat\utils\BaseMessageUtil.class
+com\wzy\wechat\utils\SHA1.class
+com\wzy\wechat\utils\TextMessageUtil.class
+com\wzy\wechat\domain\BaseMessage.class
+com\wzy\wechat\domain\Activity.class
+com\wzy\wechat\utils\CheckUtil.class
+com\wzy\wechat\domain\Change.class

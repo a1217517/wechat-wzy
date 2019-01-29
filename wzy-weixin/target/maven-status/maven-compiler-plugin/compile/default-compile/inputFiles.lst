@@ -1,0 +1,16 @@
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\domain\MessageText.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\utils\CheckUtil.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\domain\UserStory.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\service\ActivityService.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\wechatApplication.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\repository\UserStoryRepository.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\utils\BaseMessageUtil.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\domain\BaseMessage.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\repository\ChangeRepository.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\repository\ActivityRepository.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\domain\Activity.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\utils\MessageUtil.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\controller\LoginController.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\domain\Change.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\utils\SHA1.java
+D:\study\wechat\wzy-weixin\src\main\java\com\wzy\wechat\utils\TextMessageUtil.java
