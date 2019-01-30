@@ -100,6 +100,7 @@ public class TextMessageUtil  implements BaseMessageUtil<MessageText>{
         activityUser.setStepState(10);
         activityRepository.saveAndFlush(activityUser);
         //提醒:扔瓶子可获得额外捞瓶子机会 , 回复
-        return "  您捞到了"+userStory.getNickName()+"的漂流瓶!\n\n"+"漂流瓶里的故事是: \n\n "+ userStory.getStory() + "\n\n您还可以回复 1 查看该瓶子主人的微信号 , 回复 2 继续捞一个瓶子 回复 0 退出活动";
+        return "  您捞到了 ["+userStory.getNickName()+"] 的漂流瓶!\n\n"+"漂流瓶里的故事是: \n\n "+ userStory.getStory() + "" +
+                "\n\n您还可以回复 [1] 查看该瓶子主人的微信号\n回复 [2] 继续捞一个瓶子\n回复 [0] 退出活动";
     }
 }
